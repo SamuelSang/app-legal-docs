@@ -1,6 +1,6 @@
 # App Legal Docs
 
-Public legal documents, privacy policies, terms, and support pages for Samuel Sang's apps.
+Public legal documents, privacy policies, terms, and support pages for Ethan Sang's apps.
 
 This repository is only for public App Store / TestFlight legal and support pages. It must not contain app source code, private identity records, tax records, banking details, Apple account information, repository credentials, provisioning profiles, certificates, or any non-public credential material.
 
@@ -8,9 +8,9 @@ This repository is only for public App Store / TestFlight legal and support page
 
 Use:
 
-- `https://samuelsang.github.io/app-legal-docs/`
+- `https://ethansangsss.github.io/app-legal-docs/`
 
-Do not use a misspelled host with a double `s` in the GitHub username.
+Do not use retired or misspelled GitHub Pages hosts such as `https://samuelsang.github.io/app-legal-docs/`.
 
 ## App Entries
 
@@ -24,33 +24,33 @@ Do not use a misspelled host with a double `s` in the GitHub username.
 
 ### DishPick
 
-- `https://samuelsang.github.io/app-legal-docs/apps/dishpick/privacy.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/dishpick/terms.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/dishpick/support.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/dishpick/privacy.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/dishpick/terms.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/dishpick/support.html`
 
 ### OutfitPick
 
-- `https://samuelsang.github.io/app-legal-docs/apps/outfitpick/privacy.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/outfitpick/terms.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/outfitpick/support.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/outfitpick/privacy.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/outfitpick/terms.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/outfitpick/support.html`
 
 ### Pocket Psy
 
-- `https://samuelsang.github.io/app-legal-docs/apps/pocket-psy/privacy.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/pocket-psy/terms.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/pocket-psy/support.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/pocket-psy/privacy.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/pocket-psy/terms.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/pocket-psy/support.html`
 
 ### Device Inspector
 
-- `https://samuelsang.github.io/app-legal-docs/apps/device-inspector/privacy.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/device-inspector/terms.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/device-inspector/support.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/device-inspector/privacy.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/device-inspector/terms.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/device-inspector/support.html`
 
 ### SYLS
 
-- `https://samuelsang.github.io/app-legal-docs/apps/syls/privacy.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/syls/terms.html`
-- `https://samuelsang.github.io/app-legal-docs/apps/syls/support.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/syls/privacy.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/syls/terms.html`
+- `https://ethansangsss.github.io/app-legal-docs/apps/syls/support.html`
 
 ## GitHub Pages Settings
 
