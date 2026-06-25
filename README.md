@@ -10,7 +10,7 @@ Use:
 
 - `https://ethansangsss.github.io/app-legal-docs/`
 
-Do not use retired or misspelled GitHub Pages hosts such as `https://samuelsang.github.io/app-legal-docs/`.
+Do not use any non-canonical GitHub Pages host for App Store Connect, TestFlight, README files, or support materials.
 
 ## App Entries
 
