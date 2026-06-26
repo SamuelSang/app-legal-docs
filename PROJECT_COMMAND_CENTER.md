@@ -1,6 +1,6 @@
 # Project Command Center
 
-Repo: `SamuelSang/app-legal-docs`
+Repo: `EthanSangSSS/app-legal-docs`
 Role: shared privacy policy / legal docs for App releases.
 
 ## Hard rules
